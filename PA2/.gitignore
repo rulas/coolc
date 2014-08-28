@@ -2,3 +2,5 @@ cgen
 cool-lex.cc
 parser
 semant
+*.o
+grading/
